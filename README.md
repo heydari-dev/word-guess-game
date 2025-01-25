@@ -12,6 +12,25 @@ A beginner-friendly Python project where users have 5 attempts to guess the word
 - Basic familiarity with running Python scripts in the terminal.
 
 ## How to Run
-1. Clone this repository:
+
+1. Clone the repository:
+
    ```bash
    git clone https://github.com/heydari-dev/word-guess-game.git
+   cd word-guess-game
+
+2. Run the script:
+   
+   ```bash
+   python main.py
+   
+3. Follow the prompts and enjoy the game!
+
+## Contributing
+
+Feel free to submit issues or fork the project to make enhancements. Contributions are welcome!
+
+## License
+
+This project is licensed under the MIT License.
+
